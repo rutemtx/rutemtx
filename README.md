@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I always season salad perfectly without tasting it**
 
+-  Check my portfolio: rutemteixeira.github.io
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rutemteixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutemteixeira" height="30" width="40" /></a>
