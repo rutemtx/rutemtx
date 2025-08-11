@@ -1,5 +1,5 @@
 <h1 align="center">Hiiii, the name is Rute!</h1>
-<h3 align="center">I am enthusiastic about training ML models and eager to learn new algorithms</h3>
+<h3 align="center">I am a Data Scientist who is thrilled (and sometimes overwhelmed lol) about all there is to learn in this field!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutemtx&label=Profile%20views&color=0e75b6&style=flat" alt="rutemtx" /> </p>
 
